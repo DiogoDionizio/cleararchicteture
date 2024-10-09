@@ -1,0 +1,15 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Alura\\Arquitetura\\": "src/"
+    }
+  },
+  "autoload-dev":{
+    "psr-4": {
+        "Alura\\Arquitetura\\Test\\": "test/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "8"
+  }
+}
