@@ -1,8 +1,8 @@
 <?php
 
-namespace Alura\Arquitetura\Test;
+namespace SCA\Test;
 
-use Alura\Arquitetura\Email;
+use SCA\Dominio\Email;
 use InvalidArgumentException;
 use PHPUnit\Framework\TestCase;
 

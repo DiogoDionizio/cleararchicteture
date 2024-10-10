@@ -1,8 +1,8 @@
 <?php
 
-namespace Alura\Arquitetura\Test;
+namespace SCA\Test;
 
-use Alura\Arquitetura\Cpf;
+use SCA\Dominio\Cpf;
 use InvalidArgumentException;
 use PHPUnit\Framework\TestCase;
 

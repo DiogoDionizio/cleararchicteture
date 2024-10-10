@@ -1,6 +1,6 @@
 <?php
 
-namespace Alura\Arquitetura;
+namespace SCA\Dominio;
 
 class Email
 {

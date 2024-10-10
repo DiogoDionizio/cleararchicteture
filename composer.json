@@ -1,12 +1,12 @@
 {
   "autoload": {
     "psr-4": {
-      "Alura\\Arquitetura\\": "src/"
+      "SCA\\": "src/"
     }
   },
   "autoload-dev":{
     "psr-4": {
-        "Alura\\Arquitetura\\Test\\": "test/"
+        "SCA\\Test\\": "test/"
     }
   },
   "require-dev": {

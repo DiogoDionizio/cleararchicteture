@@ -1,8 +1,8 @@
 <?php
 
-namespace Alura\Arquitetura\Test;
+namespace SCA\Test\Student;
 
-use Alura\Arquitetura\Phone;
+use SCA\Dominio\Student\Phone;
 use InvalidArgumentException;
 use PHPUnit\Framework\TestCase;
 
